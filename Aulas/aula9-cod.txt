@@ -1,0 +1,49 @@
+moveForward();
+moveForward();
+moveForward();
+moveForward();
+moveForward();
+if (isPathLeft()) {
+  turnLeft();
+  moveForward();
+  moveForward();
+  moveForward();
+  moveForward();
+  moveForward();
+  turnLeft();
+  moveForward();
+  moveForward();
+  moveForward();
+  moveForward();
+  moveForward();
+  turnLeft();
+  moveForward();
+  moveForward();
+  turnLeft();
+  while (notFinished()) {
+      moveForward();
+  }
+}
+
+/*
+moveForward();
+*/
+
+moveForward();
+moveForward();
+moveForward();
+moveForward();
+if (isPathRight()) {
+  turnRight();
+  moveForward();
+  moveForward();
+  moveForward();
+  moveForward();
+  turnRight();
+  moveForward();
+  moveForward();
+  turnRight();
+  while (notFinished()) {
+      moveForward();
+  }
+}

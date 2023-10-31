@@ -1,0 +1,25 @@
+Mandamentos da programação (by jose de assis)
+
+1º Mandamento
+Entender o problema
+
+2º Mandamento
+Pensar primeiro na UX (experiencia do usuario)
+
+3º Mandamento
+clean code (usar o minimo de recurso possivel)
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Exercicio: desenvolver no scrath e no js um app que informe qual o combustivel mais vantajoso (ETANOLxGASOLINA) para um carro flex
+
+
+
+//variaveis 
+gasolina,alcool (numericas)
+//entrada
+alcool, gasolina
+//processamentos
+se o preço do litro do alcool custar ate 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+alt + shift + F = alinhar comandos

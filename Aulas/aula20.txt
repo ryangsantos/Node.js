@@ -1,0 +1,12 @@
+função 
+É um bloco de codigo Reutilizavel
+*** uma função pode ser eXEcutadada do documento
+html
+
+//execução
+html <script></script>
+//Link para um documento (recomendado)
+html ------- js
+
+Exemplos:
+

@@ -1,0 +1,32 @@
+    Leis de programações
+1º Entender o problema
+2º Pensar no usuario
+https://youtu.be/Z1GNW_woXI0
+3º Codigo limpo
+
+Dica de livros:
+
+
+--------------------------------------------------------------------------------------------------------------------
+NPM - Generetion de pacotes node
+istalação do NPM:
+npm init (Responde as perguntas)
+- gerar o arquivo package.json
+npm ls (lista os pacotes (módulos) instalados)
+npm i nome_do_pacote (instala o pacotes)
+
+repositorio:npm.js
+
+---------------------------------------------------------------------------------------------------------------------
+Instalação do pacote readline-sync para input(entradada de dados) via console
+npm i readline
+
+para usar o recurso (pacote readline-sync):
+
+passo 1) importante no inicio do Codigo
+const read = require('readline-sync')
+
+passo 2) nome_variavel = read.question("Texto qualquer")
+passo 3) nome_variavel = number(read.question("Texto qualquer"))
+
+obs: number() - converter uma string em número

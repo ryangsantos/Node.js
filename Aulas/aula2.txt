@@ -1,0 +1,33 @@
+Dica:
+extensoes do VScode ->funcionalidades extras
+Bracket pair colors (cores diferentes para chave, colchetes, parênteses ETC.)
+--------------------------------------------------------------------------------------------------------------------------
+sintaxe basica da linguagem java Script (js)
+; no final (não é obrigatorio)
+conceito de sentenças (linhas de códigos)
+conceito de blocos { }
+----------------------------------------------------------------------------------------------------------------
+variáveis:
+na linguagem javascript as variáveis são dinamicamente tipadas(tipo dependendo do dados atribuido)
+let (cria uma variável no js)
+const (cria uma constate no javascript)
+tipos de variáveis/constates
+-numericas (inteiros e não inteiros)
+-string (string de caracteres)
+-booleano (verdadeiro ou falso)
+
+console.clear (limpar a tela)
+console.log(typeof()) (exibir tipo de variável)
+
+IMPORTANTE!
+Ao definir nomes para constatese variáveis:
+-não usar espaço
+-não usar acentos e caracteres especiais 
+-iniciar com uma letra minúscula 
+-definir nomes que estejam relacionados ao problema (código limpo)
+-usar a tecnica do camelo(camel case)para nomes de variaveis compostos
+EX:nome  cliente -> nomeCliente
+_______________________________________________________________________________________________________________________________________________
+operadosres aritméticos 
+-são usados em operações aritméticas junto as constates/variaveis
+Atenção a regra da precedencia!

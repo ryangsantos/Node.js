@@ -1,0 +1,14 @@
+Atividade de avaliação 
+(entrega no git hub) - 22/09
+continuar o jogo space invader
+minimo:
+ufo -> em cima da tela percorendo de um canto a outro(borda)
+tiro de canhao(touch ufo)
+-score 100
+-mudar custume para explosão
+ufo atirando:  
+se acertar o canhao:
+- liver -1
+-canhao explode
+se live = 0
+-game over

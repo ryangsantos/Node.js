@@ -1,0 +1,11 @@
+estrutura de controle
+laços de repetições
+laço for (número determinado de repetições):
+-é a unica estrutura que permite criar internamente
+variavel do tipo numérico inteiro
+-início; condição; incremento/decramento
+for (let i = 1; i < 10; i++)
+
+observações: 
+1) usar nomes diferentes de varias internas
+2)o incremento ou decremento do laço principal só é executado após a finalização do laço for interno. 

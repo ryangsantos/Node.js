@@ -1,0 +1,23 @@
+Estruturas de controle 
+switch case (opções)
+//uso com variaaveis do tipo números inteiros
+
+let variavel
+
+switch(variavel){
+   case 1:
+    //caso o valor da variavel seja 1
+    break
+   case 2 :
+    /codigo caso o valor da variavel seja 2
+   default:
+    //caso valor inexistente
+   break
+}
+______________________________________________________________
+Gerar numeros aleatorios (javascript)
+math(recurso para funções matematica)
+math.floor (converte um numero não inteiro em inteiro )
+math.random() (gerador de numeros aleatorios)
+EX: math.floor(math.random() *60)
+//sorteio de qualquer numero entre 0 a 59

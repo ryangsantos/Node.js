@@ -1,0 +1,40 @@
+POO
+
+pilares
+-abstração
+-herança
+-polimorfismo
+-encapsulamento
+ //abstração
+ class modelo - objetos
+
+ //herança
+ extender (reutilizar) atributos e metodos das classe prncipal
+ antes de criar objetos
+
+ //polimorfismo
+ modifica o comportamento de um metodo existente na classe principal
+ 
+ //encapsulamento
+ segurança (proteger o acesso as variaveis)
+ --atribuidos (variaveis) -> privados
+ --metodos espeficos (get e set) são usados para acessar as variaveis
+
+ arrow function  =  function() ===  ()=>
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+ Atividade de avaliação POO2
+Agência Bancária
+Desafio:
+1 - Encapsular os atributos da classe Conta
+2 - Criar mais dois objetos (clientes Robson Vaamond e Sirlene Aparecida)
+3 - Criar um novo método para transferência de valores entre conta corrente e também entre contas correntes - poupança,
+Ex:
+Leandro -> Sirlene | Robson ->  Robson(poupança)
+4 - Melhorar experiência do usuário
+5 - Criar um novo método para transfererir da conta corrente para a conta poupança
+ 
+ 

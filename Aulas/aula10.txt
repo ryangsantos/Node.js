@@ -1,0 +1,20 @@
+pacotes = bibliotecas (funcionalidades em js)
+
+npm (gerenciador de pacotes) 
+ |__package.json (principal)
+
+npm init (inicia um novo )
+
+___________________________________________________________
+estruturas de controle
+condicionais
+if (condição){
+    //condição verdadeira
+}
+ if(condição){
+    //condição verdadeira
+ }
+else (condição){
+    //condição falsa 
+}
+ observação: Uma condição nunca pode ser verdadeira e falsa ao mesmo tempo 

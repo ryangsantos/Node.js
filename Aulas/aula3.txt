@@ -1,0 +1,25 @@
+Algorítmo ("receita de bolo")
+Exemplo:Criar um app calcular a media de duas notas
+
+como calculara média
+        Nota1 + Nota 2
+Média = ________________
+                2
+
+//variaveis
+3-> numéricas (Nota1, Nota2, Média)
+
+//entradada
+nota1, nota2
+
+//processamento
+média = (Nota1 + Nota2) / 2
+//saida
+média
+
+_______________________________________________________________________________________________________________________________________________
+
+variaveis do memso tipo podem ser criadas em uma unica linha separadas por virgulas
+
+concatação (juntar o texto com o conteudo de uma variavel)
+EX:console.log(`texto${}`)
